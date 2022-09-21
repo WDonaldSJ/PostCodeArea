@@ -28,27 +28,6 @@
 			<color>ff0000ff</color>
 		</LabelStyle>
 	</Style>
-	<Style id="poly-00FFFF-1000-127-normal">
-	      <LineStyle>
-		<color>ffffff00</color>
-		<width>1</width>
-	      </LineStyle>
-	      <PolyStyle>
-		<color>7fffff00</color>
-		<fill>1</fill>
-		<outline>1</outline>
-	  </PolyStyle>
-	</Style>
-	    <StyleMap id="poly-00FFFF-1000-127">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#poly-00FFFF-1000-127-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#poly-00FFFF-1000-127-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
 	<StyleMap id="polystyle2">
 		<Pair>
 			<key>normal</key>
@@ -612,7 +591,7 @@
 				<tilt>0</tilt>
 				<heading>0</heading>
 			</LookAt>
-			<styleUrl>#poly-00FFFF-1000-127-normal</styleUrl>
+			<styleUrl>#polystyle20</styleUrl>
 			<Polygon>
 				<outerBoundaryIs>
 					<LinearRing>
