@@ -593,11 +593,6 @@
 			</LookAt>
 			<styleUrl>#polystyle20</styleUrl>
 			<Polygon>
-				      <PolyStyle>
-					<color>11e9ed</color>
-					<fill>1</fill>
-					<outline>1</outline>
-				      </PolyStyle>
 				<outerBoundaryIs>
 					<LinearRing>
 						<coordinates>
